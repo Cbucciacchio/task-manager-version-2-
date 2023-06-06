@@ -1,0 +1,51 @@
+Total number of users: 7
+Total number of tasks: 5
+
+User: admin
+Total number of tasks assigned: 4
+Percentage of the total number of tasks assigned: 80.0%
+Percentage of tasks assigned that are completed: 0.0%
+Percentage of tasks assigned that are uncompleted: 100.0%
+Percentage of tasks assigned that are overdue and uncompleted: 100.0%
+
+User: 123
+Total number of tasks assigned: 0
+Percentage of the total number of tasks assigned: 0.0%
+Percentage of tasks assigned that are completed: 0%
+Percentage of tasks assigned that are uncompleted: 0%
+Percentage of tasks assigned that are overdue and uncompleted: 0%
+
+User: username
+Total number of tasks assigned: 0
+Percentage of the total number of tasks assigned: 0.0%
+Percentage of tasks assigned that are completed: 0%
+Percentage of tasks assigned that are uncompleted: 0%
+Percentage of tasks assigned that are overdue and uncompleted: 0%
+
+User: test
+Total number of tasks assigned: 0
+Percentage of the total number of tasks assigned: 0.0%
+Percentage of tasks assigned that are completed: 0%
+Percentage of tasks assigned that are uncompleted: 0%
+Percentage of tasks assigned that are overdue and uncompleted: 0%
+
+User: testagain
+Total number of tasks assigned: 0
+Percentage of the total number of tasks assigned: 0.0%
+Percentage of tasks assigned that are completed: 0%
+Percentage of tasks assigned that are uncompleted: 0%
+Percentage of tasks assigned that are overdue and uncompleted: 0%
+
+User: caca
+Total number of tasks assigned: 0
+Percentage of the total number of tasks assigned: 0.0%
+Percentage of tasks assigned that are completed: 0%
+Percentage of tasks assigned that are uncompleted: 0%
+Percentage of tasks assigned that are overdue and uncompleted: 0%
+
+User: new_user_test
+Total number of tasks assigned: 0
+Percentage of the total number of tasks assigned: 0.0%
+Percentage of tasks assigned that are completed: 0%
+Percentage of tasks assigned that are uncompleted: 0%
+Percentage of tasks assigned that are overdue and uncompleted: 0%
